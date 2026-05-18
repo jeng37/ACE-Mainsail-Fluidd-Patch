@@ -3,6 +3,7 @@
 Diese README beschreibt die **Kobra-S1-Combo-/KS1C-Anpassung** des nativen ACE-Pro-Dashboard-Patches für **Mainsail** und **Fluidd**.
 
 Screenshot from 2026-05-18 11-25-14.png
+Screenshot from 2026-05-18 11-26-37.png
 
 ## Grundlage und Credits
 
