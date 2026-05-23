@@ -35,6 +35,12 @@ Darauf aufbauend enthält diese KS1C-Fassung:
 - Spoolman Active-Spool-Sync über die RFID-/Inventory-`sku`
 - update-/restore-fester Patch-Mechanismus
 
+Offiziell getestet:
+✅ Mainsail v2.17.0
+✅ Fluidd v1.37.0
+
+Notfall-Fallback vorhanden:
+⚠️ Fluidd v1.36.2
 ---
 
 # 1. Was diese Version kann
