@@ -2,6 +2,13 @@
 
 Diese README beschreibt die **Kobra-S1-Combo-/KS1C-Anpassung** des nativen ACE-Pro-Dashboard-Patches für **Mainsail** und **Fluidd**.
 
+## Getestete / unterstützte Versionen
+
+- **Mainsail v2.17.0** — unverändert, voll unterstützt.
+- **Fluidd v1.37.0** — unterstützt (bisheriger Direkt-Patch, unverändert erhalten).
+- **Fluidd v1.37.1** — neu unterstützt (eigener Anker-/Komponenten-Satz).
+
+
 <img width="910" height="745" alt="Mainsail-1" src="https://github.com/user-attachments/assets/9132e5de-f980-41ea-809f-b6846a442a56" />
 <img width="961" height="842" alt="Mainsail-2" src="https://github.com/user-attachments/assets/041583d4-bfe7-498d-a3c1-8e972eb6ed0c" />
 
@@ -38,9 +45,12 @@ Darauf aufbauend enthält diese KS1C-Fassung:
 Offiziell getestet:
 ✅ Mainsail v2.17.0
 ✅ Fluidd v1.37.0
+✅ Fluidd v1.37.1
 
 Notfall-Fallback vorhanden:
-⚠️ Fluidd v1.36.2
+⚠️ Fluidd v1.37.0
+⚠️ Fluidd v1.37.1
+
 ---
 
 # 1. Was diese Version kann
