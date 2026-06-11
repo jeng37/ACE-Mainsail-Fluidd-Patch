@@ -4,9 +4,14 @@ Diese README beschreibt die **Kobra-S1-Combo-/KS1C-Anpassung** des nativen ACE-P
 
 ## Getestete / unterstützte Versionen
 
-- **Mainsail v2.17.0** — unverändert, voll unterstützt.
-- **Fluidd v1.37.0** — unterstützt (bisheriger Direkt-Patch, unverändert erhalten).
-- **Fluidd v1.37.1** — neu unterstützt (eigener Anker-/Komponenten-Satz).
+Offiziell getestet:
+✅ Mainsail v2.17.0
+✅ Fluidd v1.37.0
+✅ Fluidd v1.37.1
+
+Notfall-Fallback vorhanden:
+⚠️ Fluidd v1.37.0
+⚠️ Fluidd v1.37.1
 
 
 <img width="910" height="745" alt="Mainsail-1" src="https://github.com/user-attachments/assets/9132e5de-f980-41ea-809f-b6846a442a56" />
@@ -41,15 +46,6 @@ Darauf aufbauend enthält diese KS1C-Fassung:
 - Dryer-Synchronisierung zwischen Mainsail und Fluidd
 - Spoolman Active-Spool-Sync über die RFID-/Inventory-`sku`
 - update-/restore-fester Patch-Mechanismus
-
-Offiziell getestet:
-✅ Mainsail v2.17.0
-✅ Fluidd v1.37.0
-✅ Fluidd v1.37.1
-
-Notfall-Fallback vorhanden:
-⚠️ Fluidd v1.37.0
-⚠️ Fluidd v1.37.1
 
 ---
 
